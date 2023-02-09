@@ -8,11 +8,17 @@ Sistemas Multiagentes (SMA) são sistemas computacionais compostos de dois ou ma
 
 <p align="center">Ilustração de Sistemas Multiagentes</p>
 
-![alt Ilustração de Sistemas Multiagentes](https://www.researchgate.net/publication/324808821/figure/fig4/AS:620114999271424@1524858345751/General-structure-of-a-multi-agent-system-42.png)
+<p align="center">
+  <img src="https://www.researchgate.net/publication/324808821/figure/fig4/AS:620114999271424@1524858345751/General-structure-of-a-multi-agent-system-42.png" alt="Ilustração de Sistemas Multiagentes" />
+</p>
 
 ## Como surgiu e em que contexto histórico?
 
 <p align="center">História da Inteligência Artificial</p>
+
+<p align="center">
+  <img src="https://bioinfo.com.br/wp-content/uploads/2021/07/word-image-20.png" alt="História da Inteligência Artificialz" />
+</p>
 
 ![História da Inteligência Artificial](https://bioinfo.com.br/wp-content/uploads/2021/07/word-image-20.png "História da Inteligência Artificial")
 
@@ -56,7 +62,7 @@ Por um único agente inteligente possui limitações para solucionar um problema
 
 ## Exemplos de uso
 
-<p align="center">Sistemas Aistribuídos</p>
+<p align="center">Sistemas Distribuídos</p>
 
 ![Sistema Distribuído](https://pimages.toolbox.com/wp-content/uploads/2022/01/12132236/Distributed-System.png)
 
