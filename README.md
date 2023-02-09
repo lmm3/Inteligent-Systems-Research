@@ -86,7 +86,7 @@ Sistemas Multiagente podem ser utilizados na construção de Sistemas Autônomos
 <p align="center">Resolução de Problemas Complexos</p>
 
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Sasa-Mladenovic/publication/315907398/figure/fig1/AS:670024381526016@1536757669012/Overview-of-the-Multi-agent-Decision-Support-System-used-for-calculate-and-evaluate.ppm" alt="Resolução de Problemas Complexos" />
+  <img src="./images/complex_problem.png" alt="Resolução de Problemas Complexos" />
 </p>
 
 Sistemas Multiagente podem ser utilizados para resolver problemas que estão além da capacidade de uma única unidade computacional ou algoritmo, decompondo o problema maior em vários problemas menores que podem ser solucionados por multiplos agentes.
@@ -118,7 +118,38 @@ Sistemas Multiagente podem ser utilizados na robôtica, permitindo a criação d
 
 ## Quais são as aplicações práticas possíveis?
 
-<p align="center">Amazon Mechanical Turk</p>
+Alguns exemplos à baixo:
 
-<!-- ![Sistema Autônomo](https://cms.qut.edu.au/__data/assets/image/0020/918101/robot-4.jpg) -->
+<p align="center">Plataformas de Nuvem</p>
 
+<p align="center">
+  <img src="https://miro.medium.com/max/1200/1*go7sTFOGN2fJGgYrI3E-FA.png" alt="Plataformas de Nuvem" />
+</p>
+
+AWS (Amazon Web Services), Microsoft Azure e o GCP (Google Cloud Platform) utilizam Sistemas Multiagente para gerenciar sua enorme e distribuida infraestrutura. Os agentes desse sistema são responsáveis por coordenar a alocação de recursos e garantir que diferentes partes do sistema funciona de maneira correta.
+
+<p align="center">Waze</p>
+
+<p align="center">
+  <img src="https://www.waze.com/website/assets/packs/media/images/og_rebrand/whatsapp-921341267b5349f600d8abfcd5d07d6d.png" alt="Waze" />
+</p>
+
+O Waze utiliza Sistemas Multiagentes para gerenciar a sua navegação de GPS. Os agentes do Waze coletam e processam em tempo real os dados de tráfego dos usuários para gerar a situação de trânsito em tempo real.
+
+<p align="center">Assistentes por voz</p>
+
+<p align="center">
+  <img src="https://www.showmetech.com.br/wp-content/uploads//2019/12/qwertyuiop.jpg" alt="Assistentes por voz" />
+</p>
+
+Siri, Alexa e Google Assistant utilizam Sistemas Multiagente para processar comandos por voz, gerar respostas e coordenar com outras partes dos sistema para poder prover informação e realizar tarefas.
+
+<p align="center">Carros Autônomos</p>
+
+<p align="center">
+  <img src="https://img.ibxk.com.br/2021/09/17/17163921167392.jpg" alt="Carros Autônomos" />
+</p>
+
+A Tesla utiliza Sistemas Multiagente no seu produto do Autopilot para gerenciar o seu sistema de direção autônoma. Os agentes são responsáveis por processar os dados recebidos pelos sensores e tomar decisões sobre o curso do veículo. 
+
+## Que ferramentas existem disponíveis que facilitam sua implementação?
