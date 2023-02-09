@@ -2,10 +2,25 @@
 
 Pesquisa relacionada ao seminário da cadeira de Sistemas Inteligentes sobre Sistemas Multiagentes.
 
-## What are Multi-Agent Systems?
+## O que é?
 
-Multi-agent systems (MAS) are computer systems composed of multiple interacting intelligent agents, who can perceive and act in their environment. They are used to solve problems that require coordination between multiple agents or components.
-Historical Context
+Sistemas Multiagentes (SMA) são sistemas computacionais compostos de dois ou mais agentes inteligentes que interagem entre si, sendo capazes de perceber e agir em seus respectivos ambientes. São utilidos para resolução de problemas complexos que requerem a coordenação entre multiplos agentes ou componentes. 
+
+![alt Ilustração de Sistemas Multiagentes](https://www.researchgate.net/profile/Rommel-Lima/publication/320992393/figure/fig1/AS:559320992370688@1510363924034/Figura-1-Estrutura-de-um-Sistema-Multiagente-Fonte-Adaptado-de-Reis-2003.png "Ilustração de Sistemas Multiagentes")
+
+## Como surgiu e em que contexto histórico?
+
+![alt História da Inteligência Artificial](https://bioinfo.com.br/wp-content/uploads/2021/07/word-image-20.png "História da Inteligência Artificial")
+
+O surgimento de Sistemas Multiagentes aconteceu nas décadas de 1980 e 1990, após o primeiro inverno da IA e juntamente ao crescimento nas pesquisas dos Sistemas Especialistas. 
+
+Vale destacar também os avanços do desenvolvimento do Hardware da época e o surgimento da internet ([ARPANET](https://en.wikipedia.org/wiki/ARPANET)) iniciaram-se as pesquisas na área de computação distribuida
+
+![alt ARPANET](https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png "ARPANET")
+
+Os principais trabalhos da época tinham como motivação superar as limitações dos modelos tradicionais centralizados de inteligência artificial, onde um único agente era responsável pela tomadas de decisão e ações.  
+
+## Historical Context
 
 The development of multi-agent systems can be traced back to the early 1960s, with the work of researchers in artificial intelligence, computer science, and control theory. Over the years, multi-agent systems have evolved to encompass a wide range of theories, models, and algorithms for the design and implementation of multi-agent systems.
 
