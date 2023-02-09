@@ -153,3 +153,38 @@ Siri, Alexa e Google Assistant utilizam Sistemas Multiagente para processar coma
 A Tesla utiliza Sistemas Multiagente no seu produto do Autopilot para gerenciar o seu sistema de direção autônoma. Os agentes são responsáveis por processar os dados recebidos pelos sensores e tomar decisões sobre o curso do veículo. 
 
 ## Que ferramentas existem disponíveis que facilitam sua implementação?
+
+Alguns exemplos à baixo:
+
+<p align="center">FIPA</p>
+
+<p align="center">
+  <img src="http://www.fipa.org/assets/images/fipa_logo__0075_.png" alt="FIPA" />
+</p>
+
+Foundation for Intelligent Physical Systems, uma sociedade fundada pelo IEEE, delimitou os padrões que são utilizados pelas tecnológias baseadas em agentes inteligentes e os padrões de comunicação entre esses agentes com outras tecnologias.
+
+<p align="center">OMG</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/OMG_LOGO.png/220px-OMG_LOGO.png" alt="OMG" />
+</p>
+
+Object Management Group é um consórcio que define padrões da indústria de computação. Dentre esses padrões estão os de softwares baseados em agentes inteligentes e sua interoperabilidade.
+
+<p align="center">JADE</p>
+
+<p align="center">
+  <img src="https://jade-project.gitlab.io/img/logoJade.png" alt="JADE" />
+</p>
+
+Java Agent DEvelopment Framework é uma plataforma open-source para aplicações peer-to-peer baseada em agentes inteligentes.
+
+<p align="center">NetLogo</p>
+
+<p align="center">
+  <img src="http://netlogoweb.org/assets/images/desktopicon.png" alt="NetLOGO " />
+</p>
+
+NetLOGO é uma linguagem de programação visual para implementar Sistemas Multiagente. Provê uma plataforma para desenvolver e testar agentes, e suporta simulação e modelagem dos mesmos.
+
